@@ -901,13 +901,6 @@ This project is available for educational and non-commercial use.
 
 If you use this work in your research or project, please provide appropriate credit.
 
----
-
-## 👤 Author
-
-**Hubert Mówiński**
-
----
 
 ## 🙏 Acknowledgments
 
